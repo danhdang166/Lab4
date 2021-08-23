@@ -23,6 +23,11 @@
 	padding: 14px 24px;
 	border-right: 2px solid white;
 }
+.list > a:after {
+	content: "\f107";
+	padding-left: 15px;
+	font-family: "FontAwesome";
+}
 .sub-menu {
 	display: none;
 	position: absolute;
