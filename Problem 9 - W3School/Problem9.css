@@ -1,0 +1,97 @@
+.head a {
+	text-decoration: none;
+	color: black;
+	font-size: 28px;
+	font-weight: bold;
+}
+.title a {
+	text-decoration: none;
+	color: rgb(149, 26, 25);
+	font-weight: bold;
+	font-size: 25px;
+}
+.list li {
+	margin-left: -30px;
+	list-style-type: none;
+}
+.list li a {
+	color: black;
+	font-size: 16px;
+}
+#menu {
+	background-color: rgb(241, 241, 241);
+	border-right: 2px solid gray;
+}
+.head-center h1 {
+	font-weight: bold;
+	font-size: 30px;
+}
+.but {
+	width: 100px;
+}
+.hr {
+	border-top: 3px solid gray;
+}
+.content {
+	display: flex;
+	flex-wrap: wrap;
+}
+.image {
+	width: 30%;
+	box-sizing: border-box;
+}
+.image img {
+	width: 200px;
+}
+.text {
+	width: 70%;
+	box-sizing: border-box;
+}
+.title_center {
+	color: white;
+	font-size: 25px ;
+	background-color: rgb(128, 128, 128);
+}
+.link-center a {
+	color: red;
+	text-decoration: underline;
+}
+.title_right {
+	text-align: center;
+	color: white;
+	font-size: 25px ;
+	background-color: rgb(128, 128, 128);
+}
+#center {
+	border-top: 2px solid gray;
+	border-bottom: 2px solid gray;
+	border-right: 2px solid gray;
+}
+.content-right {
+	border: 2px solid gray;
+	margin-bottom: 3px;
+}
+#right {
+	padding: 2px;
+}
+form {
+	text-align: center;
+}
+.content-right p {
+	text-align: center;
+}
+.content-right p a {
+	color: red;
+	text-decoration: underline;
+}
+#style {
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 65px;
+	width: 120px;
+	padding: 5px;
+	color: rgb(67, 205, 253);
+	background-color: rgb(212, 239, 254);
+	border: 1px solid rgb(109, 158, 196);
+}

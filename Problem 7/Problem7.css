@@ -1,0 +1,17 @@
+#text:focus {
+  width: 50%;
+}
+#text {
+  width: 120px;
+  box-sizing: border-box;
+  border: 2px solid gray;
+  border-radius: 4px;
+  background-color: white;
+  background-image: url('searchicon.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding-left: 35px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}

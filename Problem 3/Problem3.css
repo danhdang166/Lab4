@@ -1,0 +1,52 @@
+.background {
+	width: 680px;
+	height: ;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: grey;
+}
+.parent {
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: white;
+	border: 1px solid gray;
+}
+.left {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	box-sizing: border-box;
+	width: 20%;
+}
+.left img {
+	border: 1px solid gray;
+}
+.but {
+	margin-left: 400px;
+	margin-top: 40px;
+	margin-bottom: 15px;
+}
+.right {
+	padding-left: 20px;
+	box-sizing: border-box;
+	width: 80%;
+}
+.right p a {
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+.but1 {
+	background-image: url('listen.png');
+	border: none;
+}
+.but2 {
+	background-image: url('add.png');
+	border: none;
+}	

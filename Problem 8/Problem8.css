@@ -1,0 +1,81 @@
+.wrap {
+	width: 700px;
+	background-color: rgb(238, 235, 228);
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.price-item1 {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 60px;
+	margin-right: 40px;
+	width: 260px;
+	border-radius: 6px;
+	background-color: white;
+	border: 2px solid gray;
+}
+.price-item2 {
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-left: 40px;
+	margin-right: 60px;
+	width: 260px;
+	border-radius: 6px;
+	background-color: white;
+	border: 5px solid rgb(55, 187, 230);
+}
+.head-item h1 {
+	text-align: center;
+	font-size: 30px;
+	color: rgb(55, 187, 230);
+}
+.head-item h2 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgb(253, 147, 92);
+	margin-top: 10px;
+	margin-bottom: 4px;
+}
+.head-item p {
+	color: gray;
+	text-align: center;
+}
+.head-item > hr {
+	width: 70%;
+	border-top: 1px solid gray;
+}
+.special p {
+	max-width: 80%;
+	margin-left: 10%;
+	text-align: center;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	border-radius: 0 0 6px 6px;
+	color: white;
+	background-color: rgb(55, 187, 230);
+}
+.body-item p {
+	text-align: center;
+	color: gray;
+}
+.big {
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+}
+#but1 {
+	margin-bottom: 20px;
+	margin-left: 60px;
+	color: white;
+	border: none;
+	background-color: rgb(253, 147, 92);
+}
+#but2 {
+	margin-bottom: 20px;
+	margin-left: 60px;
+	color: white;
+	border: none;
+	background-color: rgb(253, 147, 92);
+}
